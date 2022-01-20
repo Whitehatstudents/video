@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#oij
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border: 5px solid cyan;
+    border-radius: 10px;
+    box-shadow: 10px 10px 1000px maroon;
+    margin-top: 30px;
+}
+
+
